@@ -4,7 +4,7 @@
   "description": "Material icons Demo",
   "main": "index.html",
   "scripts": {
-    "build": "echo No build required"
+    "build": "echo No build required "
   },
   "author": "Daniel Barrios",
   "license": "ISC"
