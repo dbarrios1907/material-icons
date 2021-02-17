@@ -1,0 +1,11 @@
+{
+  "name": "material-icons",
+  "version": "1.0.0",
+  "description": "Material icons Demo",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo \"No build required\" && exit 1"
+  },
+  "author": "Daniel Barrios",
+  "license": "ISC"
+}
